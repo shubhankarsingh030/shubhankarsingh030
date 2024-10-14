@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHUBHANKAR SINGH</h1>
-<h3 align="center">"I'm a final year BTech student majoring in Electrical Engineering with a passion for leveraging data and technology to drive innovation. Alongside my engineering studies, I've taken a deep dive into the world of data analysis, Learned Python programming, advanced Excel, and Tableau. I'm currently enhancing my problem-solving skills through a Data Structures and Algorithms course.
-Additionally, I've embarked on a journey to become a Full Stack Website Developer, where I'm honing my web development skills to create dynamic and user-friendly digital experiences.
-Let's connect and explore opportunities for collaboration and growth in these exciting fields!"</h3>
+<h3 align="center">"Seeking to harness the power of both electrical engineering and software development. As a GATE-qualified MTech candidate from NSUT, Delhi, I'm eager to explore the intersection of these fields. With a solid foundation in electrical engineering, I'm passionate about creating innovative solutions that bridge the gap between hardware and software. Let's build a brighter future together!"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankarsingh030&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankarsingh030" /> </p>
